@@ -3,7 +3,7 @@
 
 ![NaLDo627's github stats](https://github-readme-stats.vercel.app/api?username=NaLDo627&show_icons=true)
 
-### I am Hyunkook park, a backend engineer
+### I am Hyunkook Park, a backend engineer
 
 <details>
   <summary>I have these skills</summary>
