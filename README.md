@@ -28,6 +28,13 @@
 ### Career
 
 <details>
+  <summary>Cafe24 Corp - Regular</summary>
+  <ul>
+    <li>Currently working at E-commerce platform development.</li>
+  </ul>
+</details>
+
+<details>
   <summary>Ylland Corp - Regular</summary>
   <ul>
     <li>Assigned to development and service management of Donutlife service using Spring framework.</li>
