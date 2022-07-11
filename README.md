@@ -12,6 +12,7 @@
     <li>Javascript</li>
     <li>Spring</li>
     <li>MySQL</li>
+    <li>Kubernetes</li>
   </ul>
 </details>
 
@@ -31,6 +32,7 @@
   <summary>Cafe24 Corp - Regular</summary>
   <ul>
     <li>Currently working at E-commerce platform development.</li>
+    <li>Manage Cafe24's EC-Solution deployment pipeline on cloud environment.</li>
   </ul>
 </details>
 
